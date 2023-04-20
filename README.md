@@ -22,5 +22,4 @@ N/A
 
 ## Deployed WebPage
 
-https://araelt8.github.io/Script-Quiz/
-
+https://araelt8.github.io/Work-Scheduler/
